@@ -1,0 +1,16 @@
+.carta1 {
+    --animate-duration: 1.3s;
+}
+
+.carta2 {
+    --animate-duration: 1.6s;
+}
+
+.carta3 {
+    --animate-duration: 2.0s;
+}
+
+.fondo {
+    max-height: 450px;
+    min-width: 320px;
+}
